@@ -36,6 +36,8 @@ public class ShortLine {
             int x2 = random.nextInt(1024);
             int y2 = random.nextInt(768);
             //控制台输出两点
+
+
             System.out.println("点1:(" + x1 + "," + y1 + ") 点2:(" + x2 + "," + y2 + ")");
             //计算两点距离
             double distance = Math.sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2));
