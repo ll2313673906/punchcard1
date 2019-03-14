@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15b87823-27ef-4c50-8364-2148f1fb152a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/ShortLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/DateFormatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1841/ShortLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1841/ShortLine.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,34 +18,35 @@
     <session id="-1391238537">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="57" />
+          <entry key="java" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="57" />
+          <entry key="JAVA" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="java" value="2222" />
-          <entry key="txt" value="86" />
+          <entry key="java" value="2835" />
+          <entry key="txt" value="104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2222" />
-          <entry key="PLAIN_TEXT" value="89" />
+          <entry key="JAVA" value="2835" />
+          <entry key="PLAIN_TEXT" value="107" />
         </counts>
       </usages-collector>
     </session>
@@ -59,11 +62,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/ShortLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-167">
-              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+            <state relative-caret-position="590">
+              <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/DateFormatTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="652">
+              <caret line="32" column="69" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/Tomato.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/DaLeTou.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/ShortLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/DateFormatTest.java" />
       </list>
     </option>
   </component>
@@ -196,6 +212,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,14 +271,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552479912168" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552533542594" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bookmanage" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -290,7 +306,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShortLine">
+  <component name="RunManager" selected="Application.DateFormatTest">
     <configuration name="DaLeTou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1841.DaLeTou" />
       <module name="punchcard1" />
@@ -304,12 +320,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoShopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.GoShopping" />
+    <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.DateFormatTest" />
       <module name="punchcard1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.entity.*" />
+          <option name="PATTERN" value="com.soft1841.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,19 +373,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GoShopping" />
       <item itemvalue="Application.JingLing" />
       <item itemvalue="Application.Tomato" />
       <item itemvalue="Application.DaLeTou" />
       <item itemvalue="Application.ShortLine" />
+      <item itemvalue="Application.DateFormatTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateFormatTest" />
         <item itemvalue="Application.ShortLine" />
         <item itemvalue="Application.DaLeTou" />
         <item itemvalue="Application.Tomato" />
         <item itemvalue="Application.JingLing" />
-        <item itemvalue="Application.GoShopping" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +401,9 @@
       <updated>1552224359449</updated>
       <workItem from="1552224364372" duration="22541000" />
       <workItem from="1552478749746" duration="398000" />
-      <workItem from="1552479441069" duration="258000" />
+      <workItem from="1552479441069" duration="1370000" />
+      <workItem from="1552489640209" duration="680000" />
+      <workItem from="1552531344380" duration="2025000" />
     </task>
     <task id="LOCAL-00001" summary="第一天打卡&#10;绘制特殊的平行四边形">
       <created>1552227781897</created>
@@ -436,16 +454,24 @@
       <option name="project" value="LOCAL" />
       <updated>1552371850865</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第四天打卡 两点间距离">
+      <created>1552479977558</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552479977558</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23197000" />
+    <option name="totallyTimeSpent" value="27014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15482573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15884718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -461,7 +487,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32892805" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32892805" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.33039647" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932975" weight="0.33039647" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -487,7 +513,8 @@
     <MESSAGE value="第一天打卡&#10;定义精灵类实现两个接口" />
     <MESSAGE value="第二天打卡&#10;异常处理" />
     <MESSAGE value="第三天打卡&#10;大乐透随机取数" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三天打卡&#10;大乐透随机取数" />
+    <MESSAGE value="第四天打卡 两点间距离" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四天打卡 两点间距离" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/entity/DrawImage.java" />
@@ -654,8 +681,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/ShortLine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-167">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        <state relative-caret-position="590">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/DateFormatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="32" column="69" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
